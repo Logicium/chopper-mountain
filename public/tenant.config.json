@@ -1,32 +1,192 @@
 {
-  "_note": "This file is overwritten by the Apotome provisioning service during site generation. Edit your live content from /admin.",
+  "_generated": "2026-07-09T00:38:17.085Z",
   "archetype": "hearth",
-  "brand": "The Hearth Hotel",
-  "tagline": "A Place to Rest & Restore",
-  "blurb": "Boutique rooms and genuine hospitality in the heart of town.",
-  "theme": "earth",
-  "swatch": "default",
-  "variant": "classic",
+  "brand": "Chopper Mountain",
+  "tagline": "Chop till the Mountain Drops",
+  "blurb": "Chopper Mountain offers unique boutique lodging, crafting unforgettable mountain escapes that blend adventure with serene comfort. We provide a distinct retreat designed to elevate your getaway into a cherished memory.",
+  "theme": "ironwood",
+  "swatch": "obsidian",
+  "variant": "essentials",
   "contact": {
-    "address": "456 Commerce St, Trinidad, CO 81082",
-    "phone": "(719) 555-0200",
-    "email": "stay@example.com",
+    "address": "20120 Phillips Lane",
+    "phone": "9407651403",
+    "email": "zackleejohnston@gmail.com",
     "mapEmbedUrl": ""
   },
-  "photos": {
-    "hero": { "src": "/images/hero.jpg", "alt": "Hotel exterior" },
-    "about": { "src": "/images/about.jpg", "alt": "Lobby" },
-    "rooms": [],
-    "gallery": []
-  },
   "story": {
-    "title": "Our Story",
-    "paragraphs": ["A boutique hotel with a century of character."],
-    "facts": []
+    "title": "Chopper Mountain's Story",
+    "paragraphs": [
+      "Chopper Mountain began as a passion project, a dream to create a unique mountain escape where natural beauty and genuine comfort perfectly meet. We envisioned a place where guests could truly unwind, recharge, and connect with the stunning landscape that surrounds us. Every detail, from the cozy rooms to the warm hospitality, has been thoughtfully curated to ensure your stay is as memorable and refreshing as the crisp mountain air itself. Come discover the peaceful haven we've built, and let the spirit of Chopper Mountain welcome you home.",
+      "I broke my leg at CM and all i got was an STD."
+    ],
+    "facts": [
+      {
+        "label": "Founded",
+        "value": "2019"
+      },
+      {
+        "label": "Summoned",
+        "value": "2021"
+      },
+      {
+        "label": "",
+        "value": ""
+      }
+    ]
   },
-  "rooms": [],
-  "amenities": [],
-  "testimonials": [],
-  "bookingUrl": "",
-  "social": []
+  "testimonials": [
+    {
+      "quote": "\"Came for the choppers, stayed because my phone died on day one and nobody could give me directions out. Best week of my life. The hot tub takes three hours to heat up and I've never been more patient. 10/10, will lose service again.\"",
+      "author": "Dave R. ",
+      "source": "Somewhere in CO"
+    },
+    {
+      "quote": "\"My wife said I needed to 'unplug.' So I drove four hours into the mountains, chopped wood for a hot tub like some kind of frontier idiot, and had the best time of my life. She keeps asking when I'm coming home. I keep saying the Wi-Fi's too slow to text back.\"",
+      "author": "Marty T.",
+      "source": "allegedly still there"
+    },
+    {
+      "quote": "first, give me a short descirtion for a wood burning hot tub set in the mountains, keep it short short5:06 PMClaude responded: Soak in a wood-fired hot tub under a mountain sky — heat by fire, cooled by the stars.Soak in a wood-fired hot tub under a mountain sky — heat by fire, cooled by the stars.You said: say short funny description for really slow wifisay short funny description for really slow wifi5:08 PMClaude responded: Wi-Fi so slow, you'll finish your beer before the page loads.Wi-Fi so slow, you'll finish your beer before the page loads.You said: write a funny testimonial about chopper mountain from a vistitors povwrite a funny testimonial about chopper mountain from a vistitors pov5:09 PMClaude responded: \"Came for the choppers, stayed because my phone died on day one and nobody could give me directions out.\"Came for the choppers, stayed because my phone died on day one and nobody could give me directions out. Best week of my life. The hot tub takes three hours to heat up and I've never been more patient. 10/10, will lose service again.\"\n— Dave R., somewhere in ColoradoYou said: give me another one even funniergive me another one even funnier5:10 PMClaude responded: \"My wife said I needed to 'unplug.\"My wife said I needed to 'unplug.' So I drove four hours into the mountains, chopped wood for a hot tub like some kind of frontier idiot, and had the best time of my life. She keeps asking when I'm coming home. I keep saying the Wi-Fi's too slow to text back.\"\n— Marty T., allegedly still thereYou said: one moreone more5:11 PMClaude responded: \"I told the guy at the gate I was 'more of an indoors person.\"I told the guy at the gate I was 'more of an indoors person.' He laughed, handed me an axe, and walked away. Three days later I'm bathing in a tub I heated myself, arguing about carburetors with a man named Tank, and I've stopped checking my email entirely. My therapist says this is progress.\"",
+      "author": "Kevin B. ",
+      "source": "reformed"
+    }
+  ],
+  "social": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/choppermountain/"
+    },
+    {
+      "label": "Facebook",
+      "href": ""
+    }
+  ],
+  "photos": {
+    "hero": {
+      "src": "/photos/hero.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "about": {
+      "src": "/photos/about.jpg",
+      "alt": "",
+      "caption": ""
+    },
+    "rooms": [
+      {
+        "src": "/photos/room-suite.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/room-king.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/room-queen.jpg",
+        "alt": "",
+        "caption": ""
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/photos/gallery-01.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-02.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-03.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-04.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-05.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-06.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-07.jpg",
+        "alt": "",
+        "caption": ""
+      },
+      {
+        "src": "/photos/gallery-08.jpg",
+        "alt": "",
+        "caption": ""
+      }
+    ]
+  },
+  "rooms": [
+    {
+      "name": "Cozy Romantical Candy Canes",
+      "blurb": "The Cozy Romantical Candy Canes room offers a sweet escape for two on a king bed, all for just $75.",
+      "image": "/photos/room-suite.jpg",
+      "features": [
+        "King Bed",
+        "Sleeps 2"
+      ],
+      "rateFrom": "$75",
+      "bookUrl": "www.zackleejohnston.com"
+    },
+    {
+      "name": "",
+      "blurb": "",
+      "image": "/photos/room-king.jpg",
+      "features": [
+        "Queen bed",
+        "Sleeps 2"
+      ],
+      "rateFrom": "",
+      "bookUrl": ""
+    },
+    {
+      "name": "",
+      "blurb": "",
+      "image": "/photos/room-queen.jpg",
+      "features": [
+        "Double bed",
+        "Sleeps 2"
+      ],
+      "rateFrom": "",
+      "bookUrl": ""
+    }
+  ],
+  "amenities": [
+    {
+      "label": "Wood Burning Hot Tub",
+      "description": "Soak in a wood-fired hot tub under a mountain sky — heat by fire, cooled by the stars.",
+      "icon": "FlameKindling"
+    },
+    {
+      "label": "Low Speed Wi-Fi",
+      "description": "Wi-Fi so slow, you'll finish your beer before the page loads",
+      "icon": "Wifi"
+    },
+    {
+      "label": "Parking",
+      "description": "",
+      "icon": "◫"
+    },
+    {
+      "label": "Beary Active",
+      "description": "Be aware of Bears and rattlesnakes at all times",
+      "icon": "Dog"
+    }
+  ]
 }
